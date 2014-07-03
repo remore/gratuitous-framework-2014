@@ -1,0 +1,7 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+  RewriteCond %{SCRIPT_FILENAME} !-f
+  RewriteCond %{SCRIPT_FILENAME} !-d
+  RewriteCond %{REQUEST_URI} !.*\.(js|ico|gif|jpg|png|css|xml|swf|zip|php|txt)$ [NC]
+  RewriteRule ^(.*)$   front.php/$1    [NC,L]
+</IfModule>

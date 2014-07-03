@@ -1,0 +1,15 @@
+awesome:
+    name: Awesome Cleaner
+    description: Works perfect at almost everywhere
+    datetime: 2014-01-01
+    page_content: |
+        <a href="yahoo.com">foo bar</a><br>
+        bb<br>
+        cc<br>
+
+better:
+    name: Better Cleaner
+    description: Works better than the cleaner you have ever used
+    datetime: 2014-02-02
+    page_content: <a href="yahoo.com">foo bar hogehogeee</a>
+

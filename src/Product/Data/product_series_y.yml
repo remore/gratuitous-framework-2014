@@ -1,0 +1,16 @@
+great:
+    name: Great Diet Food
+    description: The best way to achieve a flat stomach
+    datetime: 2014-03-03
+    page_content: |
+        <a href="yahoo.com">Super case, super sale</a><br>
+        now on sale<br>
+        TBD<br>
+
+extreme:
+    name: Extreme Diet Food
+    description: Too healthy to loose your weight easily
+    datetime: 2014-04-04
+    page_content: |
+        Hey Mr.tumbline man
+
